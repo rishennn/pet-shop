@@ -1,0 +1,20 @@
+[
+  {
+    "imgSrc": "./img/slider1.png",
+    "text": "Save 10 - 20 % off",
+    "subText": "Best destination for",
+    "subTextHighlight": "your pets"
+  },
+  {
+    "imgSrc": "./img/slider2.png",
+    "text": "Save 10 - 20 % off",
+    "subText": "Best destination for",
+    "subTextHighlight": "your pets"
+  },
+  {
+    "imgSrc": "./img/slider3.png",
+    "text": "Save 10 - 20 % off",
+    "subText": "Best destination for",
+    "subTextHighlight": "your pets"
+  }
+]

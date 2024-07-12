@@ -1,0 +1,29 @@
+.logo_block:hover, .header_sort_btn:hover {
+	transform: scale(1.1);
+}
+.header_nav_btn:hover, .sort_nav_btns:hover, .food_title ul li:hover, .footer_link:hover{
+	opacity: .6
+}
+.header_ico:hover, .social_logos img:hover {
+	transform: scale(1.4);
+}
+.footer_input_send:hover,.toCart:hover, .fav:hover, .slider_text button:hover, .clothing_title button:hover, .food_title button:hover, .sales_left button:hover, .bestsellers_title button:hover, .social-login button:hover {
+	background: #41403e;
+	color: #f9f3ec;
+}
+.clothing_item img:hover, .food_item img:hover, .bestseller img:hover, .shop_item img:hover{
+	transform: scale(0.9);
+	cursor: pointer;
+}
+.regnow button:hover {
+	font-weight: 800;
+	cursor: pointer;
+	background: #f9f3ec;
+	color: #41403e;
+}
+.pageNav ul li a:hover, .shopCategories ul li a:hover, .tags ul li a:hover, .brands ul li a:hover, .price ul li a:hover, .tabs button:hover {
+	color: #DEAD6F;
+}
+.authBtn:hover {
+	background: #1d1d1b;
+}

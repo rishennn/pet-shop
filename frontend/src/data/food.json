@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"title": "Happy jeans pant",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_1.png",
+		"category": "cat"
+	},
+	{
+		"id": 2,
+		"title": "Happy jeans pant",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_5.png",
+		"category": "dog"
+	},
+	{
+		"id": 3,
+		"title": "Tight half t-shirt",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_3.png",
+		"category": "dog"
+	},
+	{
+		"id": 4,
+		"title": "Tight half t-shirt",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_6.png",
+		"category": "cat"
+	},
+	{
+		"id": 5,
+		"title": "Happy jeans pant",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_5.png",
+		"category": "bird"
+	},
+	{
+		"id": 6,
+		"title": "Happy jeans pant",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_6.png",
+		"category": "bird"
+	},
+	{
+		"id": 7,
+		"title": "Tight half t-shirt",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_7.png",
+		"category": "dog"
+	},
+	{
+		"id": 8,
+		"title": "Tight half t-shirt",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "food_8.png",
+		"category": "cat"
+	}
+]

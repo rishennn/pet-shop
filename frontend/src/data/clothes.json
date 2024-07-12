@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"title": "Grey Hoodie",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "pet-clothing-1.png"
+	},
+	{
+		"id": 2,
+		"title": "Grey Hoodie",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "pet-clothing-2.png"
+	},
+	{
+		"id": 3,
+		"title": "Grey Hoodie",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "pet-clothing-3.png"
+	},
+	{
+		"id": 4,
+		"title": "Grey Hoodie",
+		"rating": "★★★★★ 5.0",
+		"price": "18.00",
+		"image": "pet-clothing-4.png"
+	}
+]
